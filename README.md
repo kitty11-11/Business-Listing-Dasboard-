@@ -77,10 +77,6 @@ The backend runs on:
 http://127.0.0.1:8000
 ```
 
-## Screenshots
-
-(Add screenshots of your dashboard here.)
-
 ## Author
 
 Kirti Thakur
